@@ -1,2 +1,2 @@
-# JSP_Assignment1
+# JS_Assignment1
 Java Script assignment
